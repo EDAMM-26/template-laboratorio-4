@@ -1,4 +1,4 @@
-// ─── Práctica 4 · Emisor ────────────────────────────────────────────────────
+// ─── Práctica 3 · Emisor ────────────────────────────────────────────────────
 // Actividades:
 // Sesión 1
 //   Act 1  · Player DASH con dashjs
